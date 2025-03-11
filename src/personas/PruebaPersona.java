@@ -43,7 +43,7 @@ public class PruebaPersona {
          }
          
          //Mostramos la diferencia de edad entre dos personas
-         System.out.println("DIFERENCIA DE EDAD DE PERSONAS:");
+         System.out.println("DIFERENCIA DE EDAD DE PERSONAS MODIFICADA EN GIT: ");
          System.out.println("----------------------------------");
          int dif=per1.diferenciaEdad(per2);
          System.out.println("Diferencia de edad entre persona 1 y persona 2 es de " + dif + " años");
